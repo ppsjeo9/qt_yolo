@@ -1,0 +1,8 @@
+C:/Users/ZZH/Desktop/QT_yolov8/qt_yolov11/out/build/debug/CMakeFiles/qt_yolov11.dir
+C:/Users/ZZH/Desktop/QT_yolov8/qt_yolov11/out/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/ZZH/Desktop/QT_yolov8/qt_yolov11/out/build/debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ZZH/Desktop/QT_yolov8/qt_yolov11/out/build/debug/CMakeFiles/list_install_components.dir
+C:/Users/ZZH/Desktop/QT_yolov8/qt_yolov11/out/build/debug/CMakeFiles/install.dir
+C:/Users/ZZH/Desktop/QT_yolov8/qt_yolov11/out/build/debug/CMakeFiles/install/local.dir
+C:/Users/ZZH/Desktop/QT_yolov8/qt_yolov11/out/build/debug/CMakeFiles/qt_yolov11_autogen_timestamp_deps.dir
+C:/Users/ZZH/Desktop/QT_yolov8/qt_yolov11/out/build/debug/CMakeFiles/qt_yolov11_autogen.dir

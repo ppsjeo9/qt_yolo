@@ -1,0 +1,12 @@
+# ninja log v6
+42	396	7851469442658627	qt_yolov11_autogen/timestamp	8ba46b787f973deb
+42	396	7851469442658627	qt_yolov11_autogen/mocs_compilation.cpp	8ba46b787f973deb
+397	4537	7851469446205180	CMakeFiles/qt_yolov11.dir/mainwindow.cpp.obj	7812184b936903cd
+611	3790	7851459888081045	CMakeFiles/qt_yolov11.dir/main.cpp.obj	1d941ce34692ec0
+42	396	7851469442658627	C:/Users/ZZH/Desktop/QT_yolov8/qt_yolov11/out/build/debug/qt_yolov11_autogen/timestamp	8ba46b787f973deb
+42	396	7851469442658627	C:/Users/ZZH/Desktop/QT_yolov8/qt_yolov11/out/build/debug/qt_yolov11_autogen/mocs_compilation.cpp	8ba46b787f973deb
+17	685	7852163326959031	build.ninja	6628666d03227fe1
+625	2864	7851459888215268	CMakeFiles/qt_yolov11.dir/inference.cpp.obj	5182d861c1bd55e2
+603	3780	7851459888005413	CMakeFiles/qt_yolov11.dir/qt_yolov11_autogen/mocs_compilation.cpp.obj	f87a481941edc3d2
+5206	6664	7851468923055931	qt_yolov11.exe	6f9dcfa1f4bfba78
+17	685	7852163326871218	C:/Users/ZZH/Desktop/QT_yolov8/qt_yolov11/out/build/debug/cmake_install.cmake	6628666d03227fe1

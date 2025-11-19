@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "qt_yolov11.exe",
+      "name": "qt_yolov11.exe"
+    }
+  ]
+}
