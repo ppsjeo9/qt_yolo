@@ -11,8 +11,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 
 
-find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets)
-find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
+find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets Concurrent)
+find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets Concurrent)
 
 set(PROJECT_SOURCES
         main.cpp
@@ -69,7 +69,7 @@ else()
     endif()
 endif()
 
-target_link_libraries(qt_yolov11 PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
+target_link_libraries(qt_yolov11 PRIVATE Qt${QT_VERSION_MAJOR}::Widgets Qt${QT_VERSION_MAJOR}::Concurrent)
 
 # 链接OpenCV库（使用完整路径，支持Debug和Release配置）
 # 注意：如果使用MinGW编译器，需要MinGW版本的OpenCV库（而不是vc16版本）
